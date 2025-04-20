@@ -2,11 +2,11 @@
   list-style: none;
   padding: 0;
   display: flex;
-  gap: 7px;
+  gap: 9px;
 }
 
 .item {
-  width: 76px;
+  width: 93px;
 }
 
 .friendCard {
@@ -27,7 +27,7 @@
   font-weight: 500;
   flex-grow: 1;
   margin: 0;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .online {
